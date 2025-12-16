@@ -1,0 +1,8 @@
+{
+  "name": "BossMode - Difficult Conversation Practice",
+  "description": "A roleplay application powered by Gemini Live to practice difficult conversations with a simulated boss persona.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
